@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  overscroll-behavior: none;
+  touch-action: pan-y;
+  font-family: system-ui, sans-serif;
+}
